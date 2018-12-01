@@ -1,0 +1,6 @@
+---
+# defaults file for tomcat
+region : us-east-1
+inatance-type : t2.micro
+ami : ami-03e2311c9933f4d61
+keypair : NewKey

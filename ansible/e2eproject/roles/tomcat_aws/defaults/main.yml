@@ -1,0 +1,8 @@
+---
+# defaults file for tomcat_aws
+region : us-east-1
+instance_type : t2.micro
+ami : ami-03e2311c9933f4d61
+keypair : NewKey
+
+
